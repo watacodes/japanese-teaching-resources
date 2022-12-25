@@ -1,0 +1,36 @@
+{
+    "colours": {
+        "2 answers": [
+            "salmon",
+            "green"
+        ],
+        "3 answers": [
+            "salmon",
+            "green",
+            "deepskyblue"
+        ],
+        "4 answers": [
+            "salmon",
+            "orange",
+            "green",
+            "deepskyblue"
+        ]
+    },
+    "colours-dark": {
+        "2 answers": [
+            "#EB212E",
+            "#30B700"
+        ],
+        "3 answers": [
+            "#EB212E",
+            "#30B700",
+            "#00AEEF"
+        ],
+        "4 answers": [
+            "#EB212E",
+            "#FFC600",
+            "#30B700",
+            "#00AEEF"
+        ]
+    }
+}
